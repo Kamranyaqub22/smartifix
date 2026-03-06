@@ -1,0 +1,12 @@
+# Smart iFix — robots.txt
+# https://smartifix.co.uk
+
+User-agent: *
+Allow: /
+
+# Disallow any potential admin or private directories
+Disallow: /.qodo/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://smartifix.co.uk/sitemap.xml
