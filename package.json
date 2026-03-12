@@ -1,0 +1,23 @@
+{
+  "name": "pcfix-centre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Kamranyaqub22@github.com/Kamranyaqub22/smartifix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamranyaqub22/smartifix/issues"
+  },
+  "homepage": "https://github.com/Kamranyaqub22/smartifix#readme",
+  "description": "",
+  "devDependencies": {
+    "vercel": "^50.32.3"
+  }
+}
